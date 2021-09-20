@@ -27,4 +27,16 @@ ul li {
     font-size: 150%;
 }
 
-/*  */
+/* RECIPE PAGES */
+
+.recimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid slategray;
+    border-radius: 5px;
+}
+
+p {
+    text-align: center;
+}
